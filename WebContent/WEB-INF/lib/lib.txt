@@ -1,0 +1,10 @@
+commons-fileupload-1.2.2.jar
+commons-io-2.0.1.jar
+commons-lang-2.5.jar
+commons-logging-1.1.1.jar
+commons-logging-api-1.1.jar
+freemarker-2.3.18.jar
+javassist-3.11.0.GA.jar
+ognl-3.0.4.jar
+struts2-core-2.3.1.2.jar
+xwork-core-2.3.1.2.jar
